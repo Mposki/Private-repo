@@ -1,0 +1,9 @@
+﻿  Źródło.c
+c:\users\maike\source\repos\pk2_lab1\pk2_lab1\źródło.c(25): warning C4129: "s": nierozpoznany znak sekwencji ucieczki
+c:\users\maike\source\repos\pk2_lab1\pk2_lab1\źródło.c(25): warning C4474: „scanf_s”: przekazano za dużo argumentów dla ciągu formatowania
+  c:\users\maike\source\repos\pk2_lab1\pk2_lab1\źródło.c(25): note: symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
+c:\users\maike\source\repos\pk2_lab1\pk2_lab1\źródło.c(29): warning C4129: "i": nierozpoznany znak sekwencji ucieczki
+c:\users\maike\source\repos\pk2_lab1\pk2_lab1\źródło.c(29): warning C4474: „scanf_s”: przekazano za dużo argumentów dla ciągu formatowania
+  c:\users\maike\source\repos\pk2_lab1\pk2_lab1\źródło.c(29): note: symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
+c:\users\maike\source\repos\pk2_lab1\pk2_lab1\źródło.c(32): warning C4013: niezdefiniowany "system"; przy założeniu, że extern zwraca int
+c:\users\maike\source\repos\pk2_lab1\pk2_lab1\źródło.c(29): error C4700: użycie niezainicjowanej zmiennej lokalnej "liczba"

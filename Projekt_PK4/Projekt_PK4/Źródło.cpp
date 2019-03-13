@@ -1,0 +1,1 @@
+//ogarn¹æ selenium (pobieranie danych ze stron internetowych), Qt4 
