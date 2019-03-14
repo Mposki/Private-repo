@@ -1,0 +1,7 @@
+﻿  Źródło.cpp
+c:\users\maike\documents\github\private-repo\pk4_lab2\pk4_lab2\źródło.cpp(63): warning C4286: „awaria_silnika &”: został przechwycony przez klasę bazową („awaria_samochodu &”) w wierszu 60
+c:\users\maike\documents\github\private-repo\pk4_lab2\pk4_lab2\źródło.cpp(50): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\maike\documents\github\private-repo\pk4_lab2\pk4_lab2\źródło.cpp(55): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\maike\documents\github\private-repo\pk4_lab2\pk4_lab2\źródło.cpp(60): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\maike\documents\github\private-repo\pk4_lab2\pk4_lab2\źródło.cpp(63): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+  PK4_lab2.vcxproj -> C:\Users\Maike\Documents\GitHub\Private-repo\PK4_lab2\Debug\PK4_lab2.exe
