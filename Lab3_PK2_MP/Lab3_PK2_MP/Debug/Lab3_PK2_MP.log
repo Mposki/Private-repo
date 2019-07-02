@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\zui\documents\visual studio 2015\projects\lab3_pk2_mp\lab3_pk2_mp\source.cpp(11): warning C4091: 'typedef ': ignored on left of 'Daty' when no variable is declared
+c:\users\zui\documents\visual studio 2015\projects\lab3_pk2_mp\lab3_pk2_mp\source.cpp(72): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\zui\documents\visual studio 2015\projects\lab3_pk2_mp\lab3_pk2_mp\source.cpp(75): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\zui\documents\visual studio 2015\projects\lab3_pk2_mp\lab3_pk2_mp\source.cpp(78): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\zui\documents\visual studio 2015\projects\lab3_pk2_mp\lab3_pk2_mp\source.cpp(94): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\zui\documents\visual studio 2015\projects\lab3_pk2_mp\lab3_pk2_mp\source.cpp(94): note: placeholders and their parameters expect 0 variadic arguments, but 5 were provided
+  Lab3_PK2_MP.vcxproj -> c:\users\zui\documents\visual studio 2015\Projects\Lab3_PK2_MP\Debug\Lab3_PK2_MP.exe
+  Lab3_PK2_MP.vcxproj -> c:\users\zui\documents\visual studio 2015\Projects\Lab3_PK2_MP\Debug\Lab3_PK2_MP.pdb (Partial PDB)
