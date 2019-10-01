@@ -1,0 +1,5 @@
+﻿  Źródło.cpp
+c:\users\maike\source\repos\project11\project11\źródło.cpp(23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\maike\source\repos\project11\project11\źródło.cpp(72): warning C4715: "dodaj_klienta”: niewszystkie ścieżki kodu zwracają wartość
+c:\users\maike\source\repos\project11\project11\źródło.cpp(344): error C4700: użycie niezainicjowanej zmiennej lokalnej "wybor"
+c:\users\maike\source\repos\project11\project11\źródło.cpp(30): warning C4715: "sprawdz_czy_liczba”: niewszystkie ścieżki kodu zwracają wartość

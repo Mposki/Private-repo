@@ -1,0 +1,26 @@
+﻿  Nagłówek.cpp
+c:\users\maike\source\repos\projektp\projektp\nagłówek.cpp(73): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\maike\source\repos\projektp\projektp\nagłówek.cpp(85): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\maike\source\repos\projektp\projektp\nagłówek.cpp(97): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\maike\source\repos\projektp\projektp\nagłówek.cpp(109): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\maike\source\repos\projektp\projektp\nagłówek.cpp(121): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\maike\source\repos\projektp\projektp\nagłówek.cpp(133): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\maike\source\repos\projektp\projektp\nagłówek.cpp(145): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\maike\source\repos\projektp\projektp\nagłówek.cpp(157): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\maike\source\repos\projektp\projektp\nagłówek.cpp(166): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+c:\users\maike\source\repos\projektp\projektp\nagłówek.cpp(167): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+c:\users\maike\source\repos\projektp\projektp\nagłówek.cpp(168): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+c:\users\maike\source\repos\projektp\projektp\nagłówek.cpp(169): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+c:\users\maike\source\repos\projektp\projektp\nagłówek.cpp(171): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+c:\users\maike\source\repos\projektp\projektp\nagłówek.cpp(252): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\maike\source\repos\projektp\projektp\nagłówek.cpp(260): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+c:\users\maike\source\repos\projektp\projektp\nagłówek.cpp(261): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+c:\users\maike\source\repos\projektp\projektp\nagłówek.cpp(262): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+c:\users\maike\source\repos\projektp\projektp\nagłówek.cpp(263): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+c:\users\maike\source\repos\projektp\projektp\nagłówek.cpp(309): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\maike\source\repos\projektp\projektp\nagłówek.cpp(317): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+c:\users\maike\source\repos\projektp\projektp\nagłówek.cpp(318): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+c:\users\maike\source\repos\projektp\projektp\nagłówek.cpp(319): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+c:\users\maike\source\repos\projektp\projektp\nagłówek.cpp(320): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+c:\users\maike\source\repos\projektp\projektp\nagłówek.cpp(366): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: wystąpił konflikt typu maszyny modułu „x64” z typem maszyny docelowej „x86”
