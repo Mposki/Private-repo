@@ -1,1 +1,1 @@
-Current realized project: Baza
+Current realized projects: Baza, Lamport signature
